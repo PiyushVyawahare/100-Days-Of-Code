@@ -1,0 +1,12 @@
+https://www.udemy.com/course/100-days-of-code/learn/lecture/17841394#questions/13315048
+https://docs.python.org/3/tutorial/floatingpoint.html
+https://docs.google.com/forms/d/e/1FAIpQLSdwbmx2whgRNiciYXiSs2lJT6-dOYgvqGnXdVqfLv1fjln7kw/viewform
+https://replit.com/@appbrewery/tip-calculator-end
+https://replit.com/@appbrewery/tip-calculator-start
+https://waitbutwhy.com/2014/05/life-weeks.html
+https://replit.com/@appbrewery/day-2-3-exercise
+https://en.wikipedia.org/wiki/Body_mass_index
+https://replit.com/@appbrewery/day-2-2-exercise
+https://replit.com/@appbrewery/day-2-1-exercise
+https://replit.com/@appbrewery/day-2-start
+https://replit.com/@appbrewery/tip-calculator-end?embed=1&output=1#main.py
