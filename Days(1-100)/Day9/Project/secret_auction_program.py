@@ -15,9 +15,11 @@ while True:
 
 print(logo)
 print("\n*** Here is the Result of Secret Blind Auction ***\n\n")
-ans_key = key
+ans_value = 0
 for key in dictionary:
-    if dictionary[key]>dictionary[ans_key]:
-        ans_key = key
+	value = dictionary[key]
+	if value > ans_value :
+		ans_key = key
+		ans_value = value
 
-print(f"The winner is {ans_key} with a bid of ${dictionary[ans_key]}.")
+print(f"The winner is {ans_key} with a bid of ${ans_value}.")
