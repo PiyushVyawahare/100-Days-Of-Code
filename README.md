@@ -52,7 +52,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 20</b> - [Build the Snake Game Part 1: Animation & Coordinates](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day20)
 
-- <b>Day 21</b> - [Build the Snake Game Part 2: Inheritance & List Slicing]https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day21)
+- <b>Day 21</b> - [Build the Snake Game Part 2: Inheritance & List Slicing](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day21)
 
 - <b>Day 22</b> - [Build Pong: The Famous Arcade Game](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day22)
 
