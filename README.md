@@ -12,35 +12,35 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 ## Contents
 
-- <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day1)
+- <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day%201)
 
-- <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day2)
+- <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day%202)
 
-- <b>Day 3</b> - [Control Flow and Logical Operators](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day3)
+- <b>Day 3</b> - [Control Flow and Logical Operators](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day%203)
 
-- <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day4)
+- <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day%204)
 
-- <b>Day 5</b> - [Python Loops](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day5)
+- <b>Day 5</b> - [Python Loops](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day%205)
 
-- <b>Day 6</b> - [Python Functions & Karel](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day6)
+- <b>Day 6</b> - [Python Functions & Karel](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day%206)
 
-- <b>Day 7</b> - [Hangman]https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day7)
+- <b>Day 7</b> - [Hangman](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day%207)
 
-- <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day8)
+- <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day%208)
 
-- <b>Day 9</b> - [Dictionaries, Nesting and the Secret Auction](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day9)
+- <b>Day 9</b> - [Dictionaries, Nesting and the Secret Auction](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day%209)
 
-- <b>Day 10</b> - [Function Return Values and the Calculator Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2010)
+- <b>Day 10</b> - [Function Return Values and the Calculator Project](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day10)
 
-- <b>Day 11</b> - [Blackjack Capstone Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2011)
+- <b>Day 11</b> - [Blackjack Capstone Project](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day11)
 
-- <b>Day 12</b> - [Scope and Namespacing in Python](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2012)
+- <b>Day 12</b> - [Scope and Namespacing in Python](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day12)
 
-- <b>Day 13</b> - [Debugging: How to Find and Fix Errors in your Code](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2013)
+- <b>Day 13</b> - [Debugging: How to Find and Fix Errors in your Code](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day13)
 
-- <b>Day 14</b> - [Higher Lower Game Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2014)
+- <b>Day 14</b> - [Higher Lower Game Project](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day14)
 
-- <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2015)
+- <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day15)
 
 - <b>Day 16</b> - [Object Oriented Programming (OOP)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2016)
 
