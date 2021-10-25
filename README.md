@@ -42,33 +42,33 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day15)
 
-- <b>Day 16</b> - [Object Oriented Programming (OOP)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2016)
+- <b>Day 16</b> - [Object Oriented Programming (OOP)](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day16)
 
-- <b>Day 17</b> - [The Quiz Project & the Benefits of OOP](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2017)
+- <b>Day 17</b> - [The Quiz Project & the Benefits of OOP](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day17)
 
-- <b>Day 18</b> - [Turtle & the Graphical User Interface (GUI)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2018)
+- <b>Day 18</b> - [Turtle & the Graphical User Interface (GUI)](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day18)
 
-- <b>Day 19</b> - [Instances, State and Higher Order Functions](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2019)
+- <b>Day 19</b> - [Instances, State and Higher Order Functions](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day19)
 
-- <b>Day 20</b> - [Build the Snake Game Part 1: Animation & Coordinates](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2020)
+- <b>Day 20</b> - [Build the Snake Game Part 1: Animation & Coordinates](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day20)
 
-- <b>Day 21</b> - [Build the Snake Game Part 2: Inheritance & List Slicing](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2021)
+- <b>Day 21</b> - [Build the Snake Game Part 2: Inheritance & List Slicing]https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day21)
 
-- <b>Day 22</b> - [Build Pong: The Famous Arcade Game](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2022)
+- <b>Day 22</b> - [Build Pong: The Famous Arcade Game](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day22)
 
-- <b>Day 23</b> - [ The Turtle Crossing Capstone Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2023)
+- <b>Day 23</b> - [ The Turtle Crossing Capstone Project](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day23)
 
-- <b>Day 24</b> - [Files, Directories and Paths](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2024)
+- <b>Day 24</b> - [Files, Directories and Paths](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day24)
 
-- <b>Day 25</b> - [Working with CSV Data and the Pandas Library](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2025)
+- <b>Day 25</b> - [Working with CSV Data and the Pandas Library](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day25)
 
-- <b>Day 26</b> - [List Comprehension and the NATO Alphabet](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2026)
+- <b>Day 26</b> - [List Comprehension and the NATO Alphabet](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day26)
 
-- <b>Day 27</b> - [Tkinter, \args, \\*kwargs and Creating GUI Programs](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2027)
+- <b>Day 27</b> - [Tkinter, \args, \\*kwargs and Creating GUI Programs](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day27)
 
-- <b>Day 28</b> - [Tkinter, Dynamic Typing and the Pomodoro GUI Application](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2028)
+- <b>Day 28</b> - [Tkinter, Dynamic Typing and the Pomodoro GUI Application](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day28)
 
-- <b>Day 29</b> - [Building a Password Manager GUI App with Tkinter](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2029)
+- <b>Day 29</b> - [Building a Password Manager GUI App with Tkinter](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day29)
 
 - <b>Day 30</b> - [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2030)
 
