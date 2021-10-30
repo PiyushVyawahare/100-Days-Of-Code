@@ -23,4 +23,5 @@ canvas.grid(row=0, column=0)
 kanye_img = PhotoImage(file="kanye.png")
 kanye_button = Button(image=kanye_img, highlightthickness=0, command=get_quote)
 kanye_button.grid(row=1, column=0)
+
 window.mainloop()
