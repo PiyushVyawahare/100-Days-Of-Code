@@ -70,11 +70,11 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 29</b> - [Building a Password Manager GUI App with Tkinter](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day29)
 
-- <b>Day 30</b> - [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2030)
+- <b>Day 30</b> - [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day30)
 
-- <b>Day 31</b> - [Flash Card App Capstone Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2031)
+- <b>Day 31</b> - [Flash Card App Capstone Project](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day31)
 
-- <b>Day 32</b> - [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2032)
+- <b>Day 32</b> - [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day32)
 
 - <b>Day 33</b> - [API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2033)
 
