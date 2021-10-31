@@ -76,9 +76,9 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 32</b> - [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day32)
 
-- <b>Day 33</b> - [API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2033)
+- <b>Day 33</b> - [API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day33)
 
-- <b>Day 34</b> - [API Practice - Creating a GUI Quiz App](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2034)
+- <b>Day 34</b> - [API Practice - Creating a GUI Quiz App](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day34)
 
 - <b>Day 35</b> - [Keys, Authentication & Environment Variables: Send SMS](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2035)
 
