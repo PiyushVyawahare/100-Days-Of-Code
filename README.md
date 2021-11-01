@@ -79,7 +79,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 34</b> - [API Practice - Creating a GUI Quiz App](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day34)
 
-- <b>Day 35</b> - [Keys, Authentication & Environment Variables: Send SMS](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2035)
+- <b>Day 35</b> - [Keys, Authentication & Environment Variables: Send SMS](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day35)
 
 - <b>Day 36</b> - [Stock Trading News Alert Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2036)
 
