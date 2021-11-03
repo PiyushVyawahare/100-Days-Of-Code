@@ -81,7 +81,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 35</b> - [Keys, Authentication & Environment Variables: Send SMS](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day35)
 
-- <b>Day 36</b> - [Stock Trading News Alert Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2036)
+- <b>Day 36</b> - [Stock Trading News Alert Project](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day36)
 
 - <b>Day 37</b> - [Habit Tracking Project: API Post Requests & Headers](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2037)
 
