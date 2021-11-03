@@ -83,7 +83,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 36</b> - [Stock Trading News Alert Project](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day36)
 
-- <b>Day 37</b> - [Habit Tracking Project: API Post Requests & Headers](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2037)
+- <b>Day 37</b> - [Habit Tracking Project: API Post Requests & Headers](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day37)
 
 - <b>Day 38</b> - [Workout Tracking Using Google Sheets](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2038)
 
