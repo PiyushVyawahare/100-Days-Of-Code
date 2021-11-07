@@ -89,7 +89,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 39</b> - [Capstone Part 1: Flight Deal Finder](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day39)
 
-- <b>Day 40</b> - [Capstone Part 2: Flight Club](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2040)
+- <b>Day 40</b> - [Capstone Part 2: Flight Club](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day40)
 
 - <b>Day 41</b> - [Introduction to HTML](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2041)
 
