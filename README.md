@@ -93,9 +93,9 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 41</b> - [Introduction to HTML](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day41)
 
-- <b>Day 42</b> - [Intermediate HTML](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2042)
+- <b>Day 42</b> - [Intermediate HTML](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day42)
 
-- <b>Day 43</b> - [Introduction to CSS](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2043)
+- <b>Day 43</b> - [Introduction to CSS](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day43)
 
 - <b>Day 44</b> - [Intermediate CSS](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2044)
 
