@@ -39,4 +39,3 @@ if price_as_float < target_price:
             to_addrs="piyushvyawahare2001@gmail.com",
             msg=f"Subject:Amazon Price Alert!\n\n{message}"
         )
-
