@@ -103,7 +103,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 46</b> - [Create a Spotify Playlist using the Musical Time Machine](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day46)
 
-- <b>Day 47</b> - [Create an Automated Amazon Price Tracker](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2047)
+- <b>Day 47</b> - [Create an Automated Amazon Price Tracker](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day47)
 
 - <b>Day 48</b> - [Selenium Webdriver Browser and Game Playing Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2048)
 
