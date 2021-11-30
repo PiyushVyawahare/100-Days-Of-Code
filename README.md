@@ -105,7 +105,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 47</b> - [Create an Automated Amazon Price Tracker](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day47)
 
-- <b>Day 48</b> - [Selenium Webdriver Browser and Game Playing Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2048)
+- <b>Day 48</b> - [Selenium Webdriver Browser and Game Playing Bot](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day48)
 
 - <b>Day 49</b> - [Automating Job Applications on LinkedIn](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2049)
 
