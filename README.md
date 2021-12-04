@@ -111,7 +111,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 50</b> - [Auto Tinder Swiping Bot](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day50)
 
-- <b>Day 51</b> - [Internet Speed Twitter Complaint Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2051)
+- <b>Day 51</b> - [Internet Speed Twitter Complaint Bot](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day51)
 
 - <b>Day 52</b> - [Instagram Follower Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2052)
 
