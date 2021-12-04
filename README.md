@@ -113,7 +113,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 51</b> - [Internet Speed Twitter Complaint Bot](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day51)
 
-- <b>Day 52</b> - [Instagram Follower Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2052)
+- <b>Day 52</b> - [Instagram Follower Bot](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day52)
 
 - <b>Day 53</b> - [Data Entry Job Automation](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2053)
 
