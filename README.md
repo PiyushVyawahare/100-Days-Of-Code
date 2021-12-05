@@ -109,13 +109,13 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 49</b> - [Automating Job Applications on LinkedIn](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day49)
 
-- <b>Day 50</b> - [Auto Tinder Swiping Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2050)
+- <b>Day 50</b> - [Auto Tinder Swiping Bot](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day50)
 
-- <b>Day 51</b> - [Internet Speed Twitter Complaint Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2051)
+- <b>Day 51</b> - [Internet Speed Twitter Complaint Bot](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day51)
 
-- <b>Day 52</b> - [Instagram Follower Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2052)
+- <b>Day 52</b> - [Instagram Follower Bot](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day52)
 
-- <b>Day 53</b> - [Data Entry Job Automation](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2053)
+- <b>Day 53</b> - [Data Entry Job Automation](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day53)
 
 - <b>Day 54</b> - [Introduction to Web Development with Flask](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2054)
 
