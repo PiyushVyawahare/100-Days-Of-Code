@@ -117,7 +117,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 53</b> - [Data Entry Job Automation](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day53)
 
-- <b>Day 54</b> - [Introduction to Web Development with Flask](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2054)
+- <b>Day 54</b> - [Introduction to Web Development with Flask](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day54)
 
 - <b>Day 55</b> - [HTML & URL Parsing in Flask and the Higher Lower Game](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2055)
 
