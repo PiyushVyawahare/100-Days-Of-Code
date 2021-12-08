@@ -119,9 +119,9 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 54</b> - [Introduction to Web Development with Flask](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day54)
 
-- <b>Day 55</b> - [HTML & URL Parsing in Flask and the Higher Lower Game](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2055)
+- <b>Day 55</b> - [HTML & URL Parsing in Flask and the Higher Lower Game](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day55)
 
-- <b>Day 56</b> - [Rendering HTML/Static files and Using Website Templates](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2056)
+- <b>Day 56</b> - [Rendering HTML/Static files and Using Website Templates](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day56)
 
 - <b>Day 57</b> - [Templating with Jinja in Flask Applications](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2057)
 
