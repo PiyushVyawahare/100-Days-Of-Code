@@ -123,7 +123,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 56</b> - [Rendering HTML/Static files and Using Website Templates](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day56)
 
-- <b>Day 57</b> - [Templating with Jinja in Flask Applications](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2057)
+- <b>Day 57</b> - [Templating with Jinja in Flask Applications](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day57)
 
 - <b>Day 58</b> - [Bootstrap](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2058)
 
