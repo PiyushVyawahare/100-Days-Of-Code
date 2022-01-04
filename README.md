@@ -125,7 +125,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 57</b> - [Templating with Jinja in Flask Applications](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day57)
 
-- <b>Day 58</b> - [Bootstrap](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2058)
+- <b>Day 58</b> - [Bootstrap](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day58)
 
 - <b>Day 59</b> - [Blog Capstone Project Part 2 - Adding Styling](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2059)
 
