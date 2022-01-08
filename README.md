@@ -129,7 +129,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 59</b> - [Blog Capstone Project Part 2 - Adding Styling](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day59)
 
-- <b>Day 60</b> - [POST Requests with Flask and HTML Forms](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2060)
+- <b>Day 60</b> - [POST Requests with Flask and HTML Forms](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day60)
 
 - <b>Day 61</b> - [Building Advanced Forms with Flask-WTForms](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2061)
 
