@@ -131,7 +131,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 60</b> - [POST Requests with Flask and HTML Forms](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day60)
 
-- <b>Day 61</b> - [Building Advanced Forms with Flask-WTForms](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2061)
+- <b>Day 61</b> - [Building Advanced Forms with Flask-WTForms](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day61)
 
 - <b>Day 62</b> - [Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2062)
 
