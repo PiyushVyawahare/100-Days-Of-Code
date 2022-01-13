@@ -135,7 +135,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 62</b> - [Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day62)
 
-- <b>Day 63</b> - [Databases and with SQLite and SQLAlchemy](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2063)
+- <b>Day 63</b> - [Databases and with SQLite and SQLAlchemy](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day63)
 
 - <b>Day 64</b> - [My Top 10 Movies Website](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2064)
 
