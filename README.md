@@ -139,7 +139,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 64</b> - [My Top 10 Movies Website](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day64)
 
-- <b>Day 65</b> - [How to Create a Website that People will Love](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2065)
+- <b>Day 65</b> - [How to Create a Website that People will Love](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day65)
 
 - <b>Day 66</b> - [Building Your Own API with RESTful Routing](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2066)
 
