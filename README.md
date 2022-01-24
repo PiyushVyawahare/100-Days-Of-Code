@@ -145,7 +145,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 67</b> - [Blog Capstone Project Part 3 - RESTful Routing](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day67)
 
-- <b>Day 68</b> - [Authentication with Flask](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2068)
+- <b>Day 68</b> - [Authentication with Flask](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day68)
 
 - <b>Day 69</b> - [Blog Capstone Project Part 4 - Adding Users](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2069)
 
