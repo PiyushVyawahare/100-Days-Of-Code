@@ -149,7 +149,7 @@ I <a href="https://github.com/PiyushVyawahare/100-Days-Of-Code/blob/main/Course%
 
 - <b>Day 69</b> - [Blog Capstone Project Part 4 - Adding Users](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day69)
 
-- <b>Day 70</b> - [Deploying Your Web Application with Digital Ocean](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2070)
+- <b>Day 70</b> - [Deploying Your Web Application with Digital Ocean](https://github.com/PiyushVyawahare/100-Days-Of-Code/tree/main/Days(1-100)/Day70)
 
 - <b>Day 71</b> - [Data Exploration with Pandas: College Major v.s. Your Salary](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2071)
 
